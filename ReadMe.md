@@ -12,6 +12,7 @@ Bachelor of engineering, Computer science at NTNU Gjøvik<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=FrikkBre&icon=3&color=0)](https://visitcount.itsvg.in)
 
+# Wigle stats
 
 <a href="https://wigle.net">
 <img border="0" src="https://wigle.net/bi/OgFFOCHKKcvgwLMguJgBng.png">
