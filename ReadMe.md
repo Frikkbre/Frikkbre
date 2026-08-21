@@ -14,5 +14,3 @@ Bachelor of engineering, Computer science at NTNU Gjøvik<br>
 <a href="https://wigle.net">
 <img border="0" src="https://wigle.net/bi/OgFFOCHKKcvgwLMguJgBng.png">
 </a>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
