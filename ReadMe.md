@@ -4,7 +4,7 @@ Bachelor of engineering, Computer science at NTNU Gjøvik<br>
 [[![Alt Text](images/photo.jpg)](https://example.com)
 
 [CTF, Team LolExEc](https://peppesbbqchicken.no/)
-[![LoLExEc](img/lolexecCube.gif)](lolexec.no)
+[![LoLExEc](img/lolexecCube.gif)](https://peppesbbqchicken.no/)
 
 <p align="center">
   <img src="img/lolexecCube.gif" alt="lolexec cube spinning gif" width="160" />
