@@ -1,14 +1,10 @@
 # About Me:
 Bachelor of engineering, Computer science at NTNU Gjøvik<br>
-[Software Engineer, Gjøvik Techonology racing (GTR)](https://www.gjoviktech.no/)<br>
-[[![Alt Text](images/photo.jpg)](https://example.com)
+[Software Engineer, Gjøvik Techonology racing - GTR](https://www.gjoviktech.no/)<br>
+[[![Gjøvik Techonology racing - GTR](img/GTRswan.png)](https://www.gjoviktech.no/)<br>
 
-[CTF, Team LolExEc](https://peppesbbqchicken.no/)
-[![LoLExEc](img/lolexecCube.gif)](https://peppesbbqchicken.no/)
-
-<p align="center">
-  <img src="img/lolexecCube.gif" alt="lolexec cube spinning gif" width="160" />
-</p>
+[CTF, Team LolExEc](https://peppesbbqchicken.no/)<br>
+[![LoLExEc](img/lolexecCube.gif)](https://peppesbbqchicken.no/)<br>
 
 ---
 
