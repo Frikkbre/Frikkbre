@@ -1,4 +1,4 @@
-# About Me:
+# Frikk Brændsrød
 ## Bachelor of engineering, Computer science at NTNU Gjøvik<br>
 ## [Software Engineer, Gjøvik Techonology racing - GTR](https://www.gjoviktech.no/)<br>
 <a href="https://www.gjoviktech.no/">
